@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Unity User Group Trento
+  role: Co-organizer
+  year: 2018 &mdash; Present
+  url: https://www.facebook.com/unitytrento/
+  summary: The Unity User Group is a meet-up for Unity enthusiasts with the aim to share experiences and to inspire new collaborative partnerships.
+
+
+- organization: Global Game Jam
+  role: Co-organizer
+  year: 2017 &mdash; Present
+  url: https://ggjtrento.github.io/
+  summary: The Global Game Jam is the world's largest game creation event taking place around the globe, typically at physical locations. I co-organize the physical location in Trento.

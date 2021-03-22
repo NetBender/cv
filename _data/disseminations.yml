@@ -1,0 +1,15 @@
+# Dissemination
+
+- title: Lost in TLS - the importance of mitigating vulnerabilities in the FINSEC platform
+  type: Webinar
+  context: FinSecurity
+  year: 2021
+  url: "https://finsecurity.eu/digital-finance-academy-for-security/lost-in-tls/"
+  # abstract: The webinar deals with the need to secure online communications and protect their content. A crucial activity to satisfy this requirement in many concrete use cases for online financial services is the deployment of TLS servers (TLS Transport Layer Security) . First, we motivate the importance of using and correctly configuring TLS. We discuss the vulnerabilities affecting the protocol itself and their impact on financial services. Then, we present how TLSAssistant has been integrated in the FINSEC platform, how it works and how it can help secure TLS deployments by returning actionable recommendations for mitigation. Finally, we describe the benefits of a direct integration by showing how it can be used to identify and mitigate the vulnerabilities affecting an online financial service. 
+
+- title: TLSAssistant - uno strumento per mitigare i problemi di sicurezza di TLS
+  type: Magazine article
+  context: ICT Security Magazine
+  year: 2020
+  url: "https://www.ictsecuritymagazine.com/articoli/tlsassistant-uno-strumento-per-mitigare-i-problemi-di-sicurezza-di-tls/"
+  # abstract: 

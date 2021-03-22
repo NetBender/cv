@@ -1,0 +1,17 @@
+# Articles
+
+- title: TLSAssistant Goes FINSEC - A Security Platform Integration Extending Threat Intelligence Language
+  authors: Manfredi Salvatore, Ranise Silvio, Sciarretta Giada and Tomasi Alessandro
+  booktitle: Cyber-Physical Security for Critical Infrastructures Protection
+  conference: CPS4CIP
+  year: 2021
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-69781-5_2"
+  #abstract: 
+
+- title: Lost in TLS? No More! Assisted Deployment of Secure TLS Configurations
+  authors: Manfredi Salvatore, Ranise Silvio and Sciarretta Giada
+  booktitle: Proceedings of the 33rd Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy
+  conference: DBSec
+  year: 2019
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-22479-0_11"
+  #abstract: 

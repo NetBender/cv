@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="67.73333mm"
+   height="67.73333mm"
+   viewBox="0 0 67.73333 67.73333"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="disegno2.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-402.77454"
+     inkscape:cy="-256.74845"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1507"
+     inkscape:window-height="1040"
+     inkscape:window-x="26"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showborder="true"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.008234,-105.11348)">
+    <g
+       id="g54"
+       transform="matrix(0.26458333,0,0,0.26458333,88.008234,105.11348)">
+      <path
+         class="st0"
+         d="M 256,128 C 256,198.7 198.7,256 128,256 57.3,256 0,198.7 0,128 0,57.3 57.3,0 128,0 198.7,0 256,57.3 256,128 Z"
+         id="path31"
+         style="fill:#d1cecc;fill-opacity:1" />
+      <g
+         id="g39">
+        <path
+           class="st1"
+           d="M 86.3,186.2 H 70.9 V 79.1 h 15.4 v 48.4 z"
+           id="path33" />
+        <path
+           class="st1"
+           d="m 108.9,79.1 h 41.6 c 39.6,0 57,28.3 57,53.6 0,27.5 -21.5,53.6 -56.8,53.6 h -41.8 z m 15.4,93.3 h 24.5 c 34.9,0 42.9,-26.5 42.9,-39.7 C 191.7,111.2 178,93 148,93 h -23.7 z"
+           id="path35" />
+        <path
+           class="st1"
+           d="m 88.7,56.8 c 0,5.5 -4.5,10.1 -10.1,10.1 -5.6,0 -10.1,-4.6 -10.1,-10.1 0,-5.6 4.5,-10.1 10.1,-10.1 5.6,0 10.1,4.6 10.1,10.1 z"
+           id="path37" />
+      </g>
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style29">
+	.st0{fill:#A6CE39;}
+	.st1{fill:#FFFFFF;}
+</style>
+</svg>
