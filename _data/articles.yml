@@ -5,7 +5,8 @@
   booktitle: the 16th International Conference on Availability, Reliability and Security
   conference: ETACS (ARES)
   year: 2021
-  url: "https://doi.org/10.1145/3465481.3469187"
+  url: "https://dl.acm.org/doi/10.1145/3465481.3469187"
+  #abstract: 
   
 - title: TLSAssistant Goes FINSEC - A Security Platform Integration Extending Threat Intelligence Language
   authors: Manfredi Salvatore, Ranise Silvio, Sciarretta Giada and Tomasi Alessandro
