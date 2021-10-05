@@ -1,5 +1,19 @@
 # Dissemination
 
+- title: Siamo al sicuro? Mettiamoci alla prova! Avvicinamento alla sicurezza informatica
+  type: Dissemination event
+  context: Notte dei Ricercatori (Trento)
+  year: 2021
+  url: "https://event.unitn.it/nottedeiricercatori2021/"
+  # abstract: 
+
+- title: TLSAssistant - a comprehensive tool for identifying and mitigating TLS vulnerabilities
+  type: Dissemination event
+  context: OWASP Italy September Meetup 2021
+  year: 2021
+  url: "https://owasp.org/www-chapter-italy/events/owasp-meetup-210930"
+  # abstract: 
+
 - title: Lost in TLS - the importance of mitigating vulnerabilities in the FINSEC platform
   type: Webinar
   context: FinSecurity
