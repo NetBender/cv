@@ -1,5 +1,12 @@
 # Dissemination
 
+- title: TLSAssistant - uno strumento per identificare e mitigare le vulnerabilità di TLS
+  type: Dissemination event
+  context: Security Summit Streaming Edition
+  year: 2021
+  url: "https://securitysummit.it/eventi/streaming-edition-novembre-2021/sessioni/seminario-owasp-italy"
+  # abstract: 
+
 - title: Siamo al sicuro? Mettiamoci alla prova! Avvicinamento alla sicurezza informatica
   type: Dissemination event
   context: Notte dei Ricercatori (Trento)
