@@ -1,5 +1,13 @@
 # Articles
 
+- title: A Modular and Extensible Framework for Securing TLS
+  authors: Rizzi Matteo, Manfredi Salvatore, Sciarretta Giada and Ranise Silvio
+  booktitle: the Twelveth ACM Conference on Data and Application Security and Privacy
+  conference: CODASPY
+  year: 2022
+  url: "https://doi.org/10.1145/3508398.3511505"
+  #abstract: 
+
 - title: Do Security Reports Meet Usability? - Lessons Learned from Using Actionable Mitigations for Patching TLS Misconfigurations
   authors: Manfredi Salvatore, Ceccato Mariano, Sciarretta Giada and Ranise Silvio
   booktitle: the 16th International Conference on Availability, Reliability and Security
