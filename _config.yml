@@ -15,7 +15,7 @@ resume_name:                    "Salvatore Manfredi"
 resume_title:                   "Ph.D. candidate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "salvomanfredi@protonmail.com"
+resume_contact_email:           "salvomanfredi@proton.me"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
