@@ -1,19 +1,27 @@
 # Articles
 
+- title: "Demo: TLSAssistant v2 - A Modular and Extensible Framework for Securing TLS"
+  authors: Rizzi Matteo, Manfredi Salvatore, Sciarretta Giada and Ranise Silvio
+  booktitle: the 27th ACM Symposium on Access Control Models and Technologies
+  conference: SACMAT
+  year: 2022
+  url: "https://doi.org/10.1145/3532105.3535042"
+  #abstract: 
+
 - title: A Modular and Extensible Framework for Securing TLS
   authors: Rizzi Matteo, Manfredi Salvatore, Sciarretta Giada and Ranise Silvio
   booktitle: the Twelveth ACM Conference on Data and Application Security and Privacy
   conference: CODASPY
   year: 2022
-  url: "https://doi.org/10.1145/3508398.3511505"
+  url: "https://dl.acm.org/doi/10.1145/3508398.3511505"
   #abstract: 
 
-- title: Do Security Reports Meet Usability? - Lessons Learned from Using Actionable Mitigations for Patching TLS Misconfigurations
+- title: "Empirical Validation on the Usability of Security Reports for Patching TLS Misconfigurations: User- and Case-Studies on Actionable Mitigations"
   authors: Manfredi Salvatore, Ceccato Mariano, Sciarretta Giada and Ranise Silvio
-  booktitle: the 16th International Conference on Availability, Reliability and Security
-  conference: ETACS (ARES)
-  year: 2021
-  url: "https://dl.acm.org/doi/10.1145/3465481.3469187"
+  booktitle: Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications
+  conference: JoWUA
+  year: 2022
+  url: "http://isyou.info/jowua/papers/jowua-v13n1-3.pdf"
   #abstract: 
   
 - title: TLSAssistant Goes FINSEC - A Security Platform Integration Extending Threat Intelligence Language
@@ -22,6 +30,14 @@
   conference: CPS4CIP (ESORICS)
   year: 2021
   url: "https://link.springer.com/chapter/10.1007/978-3-030-69781-5_2"
+  #abstract: 
+
+- title: Do Security Reports Meet Usability? - Lessons Learned from Using Actionable Mitigations for Patching TLS Misconfigurations
+  authors: Manfredi Salvatore, Ceccato Mariano, Sciarretta Giada and Ranise Silvio
+  booktitle: the 16th International Conference on Availability, Reliability and Security
+  conference: ETACS (ARES)
+  year: 2021
+  url: "https://dl.acm.org/doi/10.1145/3465481.3469187"
   #abstract: 
 
 - title: Lost in TLS? No More! Assisted Deployment of Secure TLS Configurations
