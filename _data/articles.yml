@@ -32,7 +32,7 @@
   url: "https://link.springer.com/chapter/10.1007/978-3-030-69781-5_2"
   #abstract: 
 
-- title: Do Security Reports Meet Usability? - Lessons Learned from Using Actionable Mitigations for Patching TLS Misconfigurations
+- title: "Do Security Reports Meet Usability?: Lessons Learned from Using Actionable Mitigations for Patching TLS Misconfigurations"
   authors: Manfredi Salvatore, Ceccato Mariano, Sciarretta Giada and Ranise Silvio
   booktitle: the 16th International Conference on Availability, Reliability and Security
   conference: ETACS (ARES)
