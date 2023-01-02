@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Salvatore Manfredi"
 # resume_title:                   "Ph.D. candidate on FinTech security"
-resume_title:                   "Ph.D. candidate"
+resume_title:                   "Security researcher"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "salvomanfredi@proton.me"
@@ -24,7 +24,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a joint-Ph.D. candidate between Fondazione Bruno Kessler (Trento) and University of Genoa. I joined the Security and Trust Research Unit at FBK with the aim to work on identity management. My research topic is the risk management of TLS Configurations.</p>"
+resume_header_intro: "<p>I am a security researcher working on the analysis of security of cryptographic primitives in the context of digital identity management. My research topic involves the analysis of security and compliance of TLS configurations</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
