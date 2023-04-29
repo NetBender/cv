@@ -57,7 +57,7 @@ resume_social_links:
   resume_linkedin_url:            "https://www.linkedin.com/in/salvomanfredi/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_orcid_url:               "https://orcid.org/0000-0001-9645-6034"
-  resume_keybase_url:             "https://keybase.io/netbender"
+  #resume_keybase_url:             "https://keybase.io/netbender"
   #resume_website_url:            "insert your website URL here"
   # resume_medium_url:            "insert your Medium URL here"
 resume_print_social_links:      true
