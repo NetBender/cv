@@ -51,13 +51,13 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:              "https://github.com/NetBender"
+  resume_keybase_url:             "https://keybase.io/netbender"
+  resume_linkedin_url:            "https://www.linkedin.com/in/salvomanfredi/"
+  resume_orcid_url:               "https://orcid.org/0000-0001-9645-6034"
   resume_twitter_url:             "https://twitter.com/SalvoManfredi"
   # resume_dribbble_url:          "insert Dribble URL here"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:            "https://www.linkedin.com/in/salvomanfredi/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_orcid_url:               "https://orcid.org/0000-0001-9645-6034"
-  resume_keybase_url:             "https://keybase.io/netbender"
   #resume_website_url:            "insert your website URL here"
   # resume_medium_url:            "insert your Medium URL here"
 resume_print_social_links:      true
