@@ -6,4 +6,4 @@
   #role: Founder & Primary Developer
   duration: 2019 &mdash; Present
   url: "https://github.com/stfbk/tlsassistant"
-  description: Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks. The companion page can be found here.
+  description: Modular and extendable framework that can assist system administrators and app developers in correctly configuring TLS deployments.

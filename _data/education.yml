@@ -1,18 +1,18 @@
 # Degree
-- degree: Ph.D. candidate
-  uni: University of Genoa (Italy)
-  year: 2019 &mdash; Present
-  summary: Joint Ph.D. between Fondazione Bruno Kessler and University of Genoa. 
+- degree: Ph. D. in Computer Science
+  uni: University of Genoa (Genoa, Italy)
+  year: 2019 &mdash; 2023
+  summary: Automated Assistance for Actionable Security - Security and Compliance of TLS Configurations
 
-- degree: Master of Computer Science
-  uni: University of Trento (Italy)
+- degree: M.Sc. in Computer Science
+  uni: University of Trento (Trento, Italy)
   year: 2016 &mdash; 2019
-  summary: Thesis on the first prototype of TLSAssistant.
+  summary: Assisting Users in Securing TLS Configurations
 
-- degree: Bachelor of Computer Science
-  uni: University of Catania (Italy)
+- degree: B.Sc. in Computer Science
+  uni: University of Catania (Catania, Italy)
   year: 2012 &mdash; 2016
-  summary: Thesis on the implementation of a functional encryption scheme.
+  summary: Cifratura Funzionale - Studio e Implementazione di uno Schema Efficiente
 
 - degree: High School Diploma
   uni: ITIS Euclide (Caltagirone, Italy)
