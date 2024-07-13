@@ -1,5 +1,13 @@
 # Articles
 
+- title: " Automating Compliance for Improving TLS Security Postures: An Assessment of Public Administration Endpoints"
+  authors: Germenia Riccardo, Manfredi Salvatore, Rizzi Matteo, Sciarretta Giada, Tomasi Alessandro and Ranise Silvio
+  booktitle: the 21st International Conference on Security and Cryptography
+  conference: SECRYPT
+  year: 2024
+  url: "https://doi.org/10.5220/0012764700003767 "
+  #abstract: 
+
 - title: "Demo: TLSAssistant v2 - A Modular and Extensible Framework for Securing TLS"
   authors: Rizzi Matteo, Manfredi Salvatore, Sciarretta Giada and Ranise Silvio
   booktitle: the 27th ACM Symposium on Access Control Models and Technologies
