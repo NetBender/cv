@@ -1,6 +1,15 @@
 # Articles
 
-- title: " Automating Compliance for Improving TLS Security Postures: An Assessment of Public Administration Endpoints"
+- title: "Emerging security and legal challenges within
+renewable energy communities: key prevention and defence strategies"
+  authors: Ricciuti Silvia, Stoklin Simona, Giuliano Francesca, Mari Christian, Zanchiello Massimiliano, Manfredi Salvatore
+  booktitle: 2024 AEIT International Annual Conference
+  conference: AEIT
+  year: 2024
+  #url: "https://doi.org/XXXX"
+  #abstract: 
+
+- title: "Automating Compliance for Improving TLS Security Postures: An Assessment of Public Administration Endpoints"
   authors: Germenia Riccardo, Manfredi Salvatore, Rizzi Matteo, Sciarretta Giada, Tomasi Alessandro and Ranise Silvio
   booktitle: the 21st International Conference on Security and Cryptography
   conference: SECRYPT
