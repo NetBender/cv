@@ -1,4 +1,10 @@
 # Jobs
+- company: Universitat Politècnica de Catalunya (Barcelona, Spain)
+  position: Adjunct professor (EPSEM)
+  duration: Sep, 2024 &mdash; Ongoing
+  summary: Professor for the Network Security and Cryptography courses - Master degree in Machine Learning and Cybersecurity for Internet Connected Systems
+  #url: "https://epsem.upc.edu/en/graduate/merit/program"
+
 - company: Fondazione Bruno Kessler (Trento, Italy)
   position: Researcher (Center for Cybersecurity)
   duration: Jan, 2023 &mdash; Ongoing
@@ -15,4 +21,4 @@
   position: Research assistant (Security & Trust unit)
   duration: Oct, 2018 &mdash; Oct, 2019
   summary:  Security analysis of the TLS deployments of IPZS and FINSEC-related projects.
-  #url: "https://st.fbk.eu/people/salvatore-manfredi"
+  url: "https://st.fbk.eu/people/salvatore-manfredi"
