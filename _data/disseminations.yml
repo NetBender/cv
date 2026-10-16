@@ -1,5 +1,49 @@
 # Dissemination
 
+- title: "Dietro lo specchio: mediazione algoritmica, emozioni e identità digitale"
+  type: Dissemination event
+  context: Liceo Linguistico "S. M. Scholl", Trento
+  year: 2026
+  # abstract: 
+
+- title: "Dietro lo specchio: oltre l’algoritmo"
+  type: Dissemination event
+  context: EDUCA Scuole 2026
+  year: 2026
+  url: "https://www.educaonline.it/wp-content/uploads/2026/09/EDUCA_Scuole_2026.pdf"
+  # abstract: 
+
+- title: Identità digitale
+  type: Dissemination event
+  context: Liceo Scientifico "Galileo Galilei", Trento
+  year: 2024
+  # abstract: 
+
+- title: Consapevolezza e Sicurezza Informatica
+  type: Dissemination event
+  context: ENAIP Trentino, Trento
+  year: 2024
+  # abstract: 
+
+- title: Siamo al sicuro? Mettiamoci alla prova! Un viaggio nel mondo della sicurezza informatica
+  type: Dissemination event
+  context: Notte della Ricerca (Trento)
+  year: 2023
+  url: "https://nottedellaricerca.tn.it/"
+  # abstract: 
+
+- title: Avvicinamento alla sicurezza informatica
+  type: Dissemination event
+  context: Istituto Comprensivo Civezzano, Trento
+  year: 2023
+  # abstract: 
+
+- title: Giornata mondiale per la Sicurezza in Rete
+  type: Dissemination event
+  context: Istituto Comprensivo Civezzano, Trento
+  year: 2022
+  # abstract: 
+
 - title: TLSAssistant - uno strumento per identificare e mitigare le vulnerabilità di TLS
   type: Dissemination event
   context: Security Summit Streaming Edition
